@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @mrYasinHamidi
-- 👀 I’m interested in Programming especially Android Programming. also AI
-- 🌱 I’m currently learning Blockchain
-- 💞️ I’m looking to collaborate in startups that works on blockchain
+- 👋 Hi, I’m Yasin
+- 👀 I’m interested in Programming especially Mobile Programming 
+- 🌱 I’m currently learning Flutter so deeply
 - 📫 How to reach me : My email adress :)
 
 <!---
