@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yasin
 - 👀 I’m interested in Programming especially Mobile Programming 
-- 🌱 I’m currently learning Flutter so deeply
+- 🌱 I’m currently working Flutter so deeply
 - 📫 How to reach me : My email adress :)
 
 <!---
